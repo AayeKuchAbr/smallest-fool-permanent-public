@@ -1,0 +1,148 @@
+To explain the indications/contraindications for, t he 
+advantages/disadvantages of, and the risks associat ed with 
+intravenous drug therapy. To identify the types of intravascular devices (inc luding 
+delivery devices and drivers) that may be used to d eliver 
+drugs and fluids. To interpret the effects of varying basic pharmacok inetic 
+parameters (e.g. clearance) upon the plasma concent ration 
+of IV drugs following bolus, continuous or intermit tent 
+infusions. Learning outcomes
+Intravenous drug administration. 
+MD3001. 
+2
+Lecture overview
+Indications for intravenous therapy Guidelines for the safe administration of intravenous drugs Hazards and complications of intravenous therapy Pharmacokinetics of intravenous drugs 
+Indications for intravenous therapy
+Reasons for IV administration
+Medicine is not available in another form Cannot tolerate medication by another route Constant or high blood level of medicine is needed A rapid onset of effect is needed Some medications are more effective via IV Rarely, to ensure compliance 
+Disadvantages of IV administration
+Increased cost and time to administer the medicine Requires trained staff to administer (plus location ) 
+Rapid onset of actionVolume of fluid needed to dilute the medicine Can cause discomfort/pain to the patient Health risks (e.g. infection) 
+When the oral route can be used, it should be used
+Safe administration of 
+intravenous drugs
+Types of intravascular devices (IVDs) 
+Peripheral venous catheters Central venous catheters (CVCs) 
+–Peripherally inserted CVCs 
+–Skin-tunneled CVCs (e.g. Hickman and Broviac lines) 
+Arterial catheters 
+Syringes, bags, pumps and drivers
+
+Continuous infusion 
+–Stable drugs 
+–Short half-life 
+–Time dependent effects 
+–Needs dedicated IV site 
+Intermittent infusion 
+–Unstable drugs 
+–Long half-life 
+–Concentration dependent effects 
+–Less compatibility concerns Bolus injection 
+–Rapid response required 
+–Incompatibilities 
+–Unstable drugs Methods of administering intravenous medications
+Hazards and complications of 
+intravenous therapy
+Complications of IV drug administration
+Fear / Phobia / PainInfection / Sepsis Thrombophlebitis Extravasation / InfiltrationEmboli Anaphylaxis / Hypersensitivity Overdose 
+
+Visual infusion phlebitis score (1-5) 
+13 
+
+Red man syndrome
+Hypersensitivity reaction due to histamine release 
+–erythematous rash of  face, neck, and upper torso 
+–diffuse burning, itching, generalised discomfort 
+–rare cases: hypotension, angioedema, chest pain, dy spnea 
+Vancomycin 
+–Treatment of MRSA 
+Incidence reduced by 
+–Slowing infusion rate 
+–More dilute drug solution 
+Nallasivan et al , BMJ Case Reports 2009 
+Vancomycin
+
+Complications of IV drug administration
+Insufficient mixing Stability of medicines in solution
+–Light (e.g. total parenteral nutrition [TPN]) 
+–Temperature (e.g. insulin, TPN) 
+–Concentration (e.g. amiodarone) 
+–pH (e.g. midazolam) 
+Interaction of medicines with the syringe/bag 
+
+Pharmacokinetics of intravenous 
+drugs
+Bioavailability
+Fraction of unchanged drug that reaches the systemic circulation. IV injection gives 100% bioavailability. 
+Infusion vs repeated injections
+Plasma drug concentrations
+IF drug is infused at a constant rate AND no drug is removed 
+from the body, then the graph of plasma concentration 
+against time would be a straight line .
+Plasma concentration Time 
+Plasma drug concentrations
+BUT drug is being eliminated from the body as soon as it is 
+in the circulation (e.g. via the kidneys). For most drugs, the 
+amount of drug eliminated per unit 
+time is related to the concentration of drug in the plas ma 
+(first-order kinetics): 
+–Higher concentrations, more drug is removed per unit o f time. 
+–Lower concentrations, less drug is removed per unit of  time. 
+THEREFORE the graph of plasma concentration against time 
+for most infusions will bend towards a plateau when the 
+rate in of drug equals the rate out .
+Plasma drug concentration during IV infusion
+Plasma concentration increases during infusion unti l rate 
+of input equals rate of output 
+•“Steady state” 
+Clearance
+Clearance (CL) is defined as the volume of blood or plasma 
+cleared of drug in a unit time – e.g. 10ml/min 
+In first order kinetics, whilst amount of drug eliminated per 
+unit time varies, CL is a constant: 
+Clearance            
+Drug eliminated 10ml/min Time zero 1 min 2 min 3 min 
+100 ml 
+100 mg 
+10ml/min 100 ml 
+90 mg 
+10ml/min 100 ml 
+81 mg 
+10ml/min 100 ml 
+72.9 mg 
+10mg 9mg 8.1mg 
+Plasma steady state conc. (Css )
+t1/2 =ln2 x V d
+CL The Css value reached depends on: 
+the rate of drug administered ( K0)
+volume of plasma cleared of drug per unit time ( CL )
+The time taken to reach Css depends on: 
+elimination half-life ( t1/2 )
+t1/2 directly depends on the volume of distribution ( Vd) and 
+inversely on the clearance ( CL ) of drug from the body: 
+Half lives and IV administration
+Thomson, Paediatric and Perinatal Drug Therapy Volum e 4, Issue 1, 2000 
+Clinical impact
+What contributes to CL ? (MD3002!) 
+What happens if your patient’s CL is lower or 
+higher than expected? 
+–To the steady state plasma concentration? 
+–To the time taken to reach that steady state? 
+What happens if you increase or decrease the dose of a drug? 
+–To the steady state plasma concentration? 
+–To the time taken to reach that steady state? 
+Main points
+Potential for drug errors is high if careless and many other risks are involved in IV administration
+–Guidelines exist for a reason! 
+The time taken to reach the 
+Css of a drug depends 
+on its half life ( t1/2 )
+The Css reached depends on the rate of drug in, and 
+the rate of clearance of the drug from the plasma 
+To explain the indications/contraindications for, t he 
+advantages/disadvantages of, and the risks associat ed with 
+intravenous drug therapy. To identify the types of intravascular devices (inc luding 
+delivery devices and drivers) that may be used to d eliver 
+drugs and fluids. To interpret the effects of varying basic pharmacok inetic 
+parameters (e.g. clearance) upon the plasma concent ration 
+of IV drugs following bolus, continuous or intermit tent 
+infusions. Learning outcomes
