@@ -9,7 +9,7 @@ def encode_image(image_path):
 
 def call(text, lecture_name):
     testcase = "say hi"
-    keyname = "zoinks"
+    keyname = "zoinks" #edit with your openai API key
     openai.api_key = keyname
 
     image_directory = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lecture_images")
